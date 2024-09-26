@@ -26,25 +26,16 @@ Ensure you have the following installed:
 
 To install the necessary dependencies, run one of the following commands:
 
-``bash
+bash
 npm install
 
-Running the Development Server
-Start the development server to preview the website locally:
+->Running the Development Server
+->Start the development server to preview the website locally:
 
 bash
-Copy code
-npm run dev
-or
+->Copy code
+->npm run dev
 
-bash
-Copy code
-yarn dev
-or
-
-bash
-Copy code
-pnpm dev
 Open your browser and navigate to http://localhost:3000 to see the site in action.
 
 Build for Production

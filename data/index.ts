@@ -87,7 +87,7 @@ export const navItems = [
         id: 2,
        title: "SaarthiAI - Emergency Assistant",
     des: "Built a smart emergency assistant app using Flutter and Firebase that helps users send real-time alerts with location to trusted contacts. Includes GPS tracking and quick SOS actions.",
-  img: "/sarthi.jpeg",
+  img: "/sarthi.jpg",
   iconLists: ["/html3.png", "/css3.png", "/react.svg", "/github1.png"],
   link: "https://github.com/pranavi2/SaarthiAI"
     

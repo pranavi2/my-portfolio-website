@@ -98,7 +98,7 @@ export const navItems = [
       des: "Created an AI-driven Flappy Bird game using Python and the NEAT algorithm, implementing game mechanics and neural network training.",
       img: "/p3.jpeg",
       iconLists: ["/python.svg", "/neat.svg"],
-        link:"https://github.com/pranavi2/simon-game",
+        link:"https://github.com/pranavi2/simon-game", 
       
     },
     {

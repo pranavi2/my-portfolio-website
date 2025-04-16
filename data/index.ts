@@ -84,11 +84,12 @@ export const navItems = [
       
     },
     {
-      id: 2,
-      title: "Emergency SOS Women Safety App",
-      des: "Developed and launched an Emergency SOS application with real-time GPS tracking and emergency alert features using Flutter and Firebase.",
-      img: "/p2.jpg",
-      iconLists: ["/flutter.svg", "/cloud.svg", "/gps.svg"],
+        id: 2,
+       title: "SaarthiAI - Emergency Assistant",
+    des: "Built a smart emergency assistant app using Flutter and Firebase that helps users send real-time alerts with location to trusted contacts. Includes GPS tracking and quick SOS actions.",
+  img: "/sarthi.jpeg",
+  iconLists: ["/html3.png", "/css3.png", "/react.svg", "/github1.png"],
+  link: "https://github.com/pranavi2/SaarthiAI"
     
     },
     {
@@ -97,6 +98,7 @@ export const navItems = [
       des: "Created an AI-driven Flappy Bird game using Python and the NEAT algorithm, implementing game mechanics and neural network training.",
       img: "/p3.jpeg",
       iconLists: ["/python.svg", "/neat.svg"],
+        link:"https://github.com/pranavi2/simon-game",
       
     },
     {

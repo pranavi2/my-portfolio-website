@@ -20,7 +20,7 @@ const RecentProjects = () => {
           >
             
            <PinContainer
-              title="/ui.aceternity.com"
+              title="Projects"
               href="https://twitter.com/mannupaaji"
             
               

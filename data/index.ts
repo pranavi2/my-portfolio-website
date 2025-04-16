@@ -17,7 +17,7 @@ export const navItems = [
       titleClassName: "justify-end",
       img: "/b1.svg",
       spareImg: "",
-      link:"https://github.com/pranavi2/youtube-clone"
+      
     },
     {
       id: 2,
@@ -79,6 +79,7 @@ export const navItems = [
       des: "Independently designed and implemented a front-end clone of the YouTube interface using HTML, CSS, and React.",
       img: "/p1.jpeg",
       iconLists: ["/html3.png", "/css3.png", "/react.svg", "/github1.png"],
+        link:"https://github.com/pranavi2/youtube-clone"
       
     },
     {

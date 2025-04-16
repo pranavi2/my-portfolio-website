@@ -17,6 +17,7 @@ export const navItems = [
       titleClassName: "justify-end",
       img: "/b1.svg",
       spareImg: "",
+      link:"https://github.com/pranavi2/youtube-clone"
     },
     {
       id: 2,

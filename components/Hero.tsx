@@ -52,14 +52,14 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words=" Hi! I&apos;m Pranavi, a Developer focused on building robust full-stack solutions.."
+            words=" Hi! I'm Pranavi, a Developer crafting robust full-stack and cloud-based solutions."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-             Crafting Intuitive Interfaces for Tomorrow&apos;s Digital World
+            Building Scalable Experiences for Tomorrow&apos;s Digital World.
           </p>
-         
+
           <a href="#about">
             <MagicButton
               title="Show my work"

@@ -91,7 +91,7 @@ export const projects = [
     id: 3,
     title: "Password Manager – AES Encryption",
     des: "Developed a Python-based console app for secure password storage using AES encryption and PBKDF2-HMAC key derivation.",
-    img: "/p3.",
+    img: "/p3.png",
     iconLists: ["/python.svg", "/neat.svg"],
     link: "https://github.com/pranavi2/AES-Password-Manager",
   },
